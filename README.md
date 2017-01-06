@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
+
+I just started this "blog", and am now working on it.
 
 You can use the [editor on GitHub](https://github.com/minnietxy/minnietxy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
